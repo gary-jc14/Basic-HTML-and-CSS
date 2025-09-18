@@ -1,6 +1,6 @@
 
 
-td:hover {
+td:hover { /**various styling effects for the muscle car table**/
     background-color: red;
     color: black;
 }
